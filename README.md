@@ -2,7 +2,7 @@
 
 
 - 👯 I’m currently looking for an end of study internship
-- 🌱 I’m currently learning nodejs & spring boot 
+- 🌱 I’m currently practicing nodejs & spring boot 
 - 📫 How to reach me: imadharilla@gmail.com
 
 **Languages I have used**
