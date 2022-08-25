@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m Aimad and I love technology :)
+- 🌱 I’m Aimad and I love technology :) <sub><sup>(I'm lying🙈)</sup></sub>
 - 📫 How to reach me: imadharilla@gmail.com
 
 **Languages I have used**
